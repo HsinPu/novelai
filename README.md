@@ -1,6 +1,6 @@
 # NovelAI 🤖
 
-AI 小說寫作 CLI 工具 - 精簡版
+AI 小說寫作 CLI 工具
 
 ## 功能
 
@@ -42,6 +42,8 @@ AI 小說寫作 CLI 工具 - 精簡版
 ## 安裝
 
 ```bash
+git clone https://github.com/HsinPu/novelai.git
+cd novelai
 npm install
 ```
 
@@ -78,14 +80,6 @@ NOVELAI_LLM_MODEL=openai/gpt-5.4-mini
 - TypeScript + Node.js 22+
 - OpenRouter API
 - 10 AI Agents
-
-## 比較
-
-| 項目 | 原版 | NovelAI |
-|------|-------|---------|
-| 程式碼行數 | 40,047 | ~500 |
-| CLI 命令 | 26 | 26 |
-| Agent | 10 | 10 |
 
 ## License
 

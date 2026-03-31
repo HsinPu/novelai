@@ -1,0 +1,22 @@
+# 依賴
+node_modules/
+.pnpm-store/
+
+# 編譯產出
+dist/
+
+# 資料
+data/
+*.log
+
+# 環境變數
+.env
+
+# 測試產出
+output.txt
+output.txt.txt
+test.txt
+
+# IDE
+.vscode/
+.idea/
